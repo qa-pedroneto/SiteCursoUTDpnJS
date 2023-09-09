@@ -93,23 +93,6 @@ switch(escolaridade2){
 
 // ESTRUTURAS DE DECISÃO - Atividade repetitiva de maneira automática
 
-let flag = true;
-let contador = 0;
-
-while(flag){
-
-    if(contador<10){
-        console.log("trabalhando...")
-        contador++;
-        texto = "Trabalhando"
-        let resultado = document.createTextNode(texto+" ");
-        painel.appendChild(resultado);
-    }
-    else{
-        flag = false;
-        }
-    }
-
 // ++ Significa "contador + 1"
 // -- Significa contador - 1
 // Multiplicando: *=3 (multiplica por 3)
