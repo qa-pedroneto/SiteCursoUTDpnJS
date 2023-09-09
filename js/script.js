@@ -101,6 +101,9 @@ while(flag){
     if(contador<10){
         console.log("trabalhando...")
         contador++;
+        texto = "Trabalhando"
+        let resultado = document.createTextNode(texto+" ");
+        painel.appendChild(resultado);
     }
     else{
         flag = false;
