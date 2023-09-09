@@ -1,7 +1,5 @@
 // Olá, mundo!
 
-// AULA 01
-
 // alert("Olá mundo!")
 
 // variáveis = var , let , const
@@ -89,14 +87,3 @@ switch(escolaridade2){
 }
 */
 
-// AULA 02
-
-// ESTRUTURAS DE DECISÃO - Atividade repetitiva de maneira automática
-
-// ++ Significa "contador + 1"
-// -- Significa contador - 1
-// Multiplicando: *=3 (multiplica por 3)
-// contador += (de dois em dois, e por ai vai)
-
-// pré-incremento e pós-incremento
-// ++contador OU contador++
